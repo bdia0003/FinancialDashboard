@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/FinancialDashboard/static/css/main.5a0f462f.css",
-    "main.js": "/FinancialDashboard/static/js/main.4d72255f.js",
+    "main.js": "/FinancialDashboard/static/js/main.1f9e4489.js",
     "index.html": "/FinancialDashboard/index.html",
     "main.5a0f462f.css.map": "/FinancialDashboard/static/css/main.5a0f462f.css.map",
-    "main.4d72255f.js.map": "/FinancialDashboard/static/js/main.4d72255f.js.map"
+    "main.1f9e4489.js.map": "/FinancialDashboard/static/js/main.1f9e4489.js.map"
   },
   "entrypoints": [
     "static/css/main.5a0f462f.css",
-    "static/js/main.4d72255f.js"
+    "static/js/main.1f9e4489.js"
   ]
 }
